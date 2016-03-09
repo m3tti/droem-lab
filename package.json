@@ -1,0 +1,25 @@
+{
+  "name": "droem-lab",
+  "version": "1.0.0",
+  "description": "Droem Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3tti/droem-lab.git"
+  },
+  "author": "Mathäus Sander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3tti/droem-lab/issues"
+  },
+  "homepage": "https://github.com/m3tti/droem-lab#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "nedb": "^1.8.0"
+  }
+}
